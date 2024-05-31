@@ -1,0 +1,11 @@
+Top 10 Downloaded Models:
+1. MIT/ast-finetuned-audioset-10-10-0.4593 - Downloads: 381669611
+2. google-bert/bert-base-uncased - Downloads: 62359247
+3. openai/clip-vit-large-patch14 - Downloads: 50975131
+4. sentence-transformers/all-MiniLM-L6-v2 - Downloads: 33142973
+5. jonatasgrosman/wav2vec2-large-xlsr-53-english - Downloads: 21403219
+6. distilbert/distilbert-base-uncased - Downloads: 19937530
+7. sentence-transformers/all-mpnet-base-v2 - Downloads: 16860144
+8. openai/clip-vit-base-patch32 - Downloads: 16067172
+9. jonatasgrosman/wav2vec2-large-xlsr-53-arabic - Downloads: 12290810
+10. openai/clip-vit-base-patch16 - Downloads: 11953058
